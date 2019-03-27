@@ -39,5 +39,15 @@
 - Wei Wang, HUST, http://ei.hust.edu.cn/professor/wangwei/
 
 
+# Download
+- Video Grabber, https://www.videograbber.net/
+- Free Online YouTube Downloader, https://en.savefrom.net/
+
+- SCI-Hub, http://tool.yovisun.com/scihub/
+- LabXing, https://www.labxing.com/paper
+- Jiumo Search, https://www.jiumodiary.com/
+
+
+
 
 
