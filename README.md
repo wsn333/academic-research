@@ -46,7 +46,7 @@
 - SCI-Hub, http://tool.yovisun.com/scihub/
 - LabXing, https://www.labxing.com/paper
 - Jiumo Search, https://www.jiumodiary.com/
-
+- 猫咪论文, https://lunwen.im/
 
 
 
