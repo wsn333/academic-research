@@ -8,6 +8,7 @@ sensor, network
 
 <table><tr><td bgcolor=yellow>背景色yellow</td></tr></table>
 
+<table><tr><td bgcolor=orange>背景色是：orange</td></tr></table>
 
 
 
