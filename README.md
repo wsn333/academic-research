@@ -3,12 +3,8 @@
 # Homepage
 
 - Yuan He, Tsinghua, http://www.greenorbs.org/people/heyuan/index.html
-sensor, network
+<font color=green>sensor</font>, <font color=green>network</font>
 
-
-<table><tr><td bgcolor=yellow>背景色yellow</td></tr></table>
-
-<table><tr><td bgcolor=orange>背景色是：orange</td></tr></table>
 
 
 
