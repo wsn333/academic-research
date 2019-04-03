@@ -8,7 +8,7 @@
 sensor
 <font color=#00ffff size=72>color=#00ffff</font>
 
-![Mail](https://img.shields.io/badge/mail-orange.svg)
+![Mail](https://img.shields.io/badge/sensor-orange.svg)
 
 
 
