@@ -6,6 +6,10 @@
 - Jiliang Wang, Tsinghua, http://tns.thss.tsinghua.edu.cn/~jiliang/
 - Kun Qian, Tsinghua, http://www.kunqian.info/
 - Zheng Yang, Tsinghua, http://tns.thss.tsinghua.edu.cn/~yangzheng/
+- Yuan He, Tsinghua, http://www.greenorbs.org/people/heyuan/index.html
+- Yunhao Liu, http://www.cse.ust.hk/~liu/, https://www.egr.msu.edu/news/2018/08/15/yunhao-liu
+
+
 
 
 - Kate Lin, NCTU, https://people.cs.nctu.edu.tw/~katelin/
