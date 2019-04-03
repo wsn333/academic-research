@@ -3,12 +3,7 @@
 # Homepage
 
 - Yuan He, Tsinghua, http://www.greenorbs.org/people/heyuan/index.html  
-
-<font color="green">sensor</font>, <font color="green">network</font>
-sensor
-<font color=#00ffff size=72>color=#00ffff</font>
-
-![Mail](https://img.shields.io/badge/sensor-network-lll-orange.svg)
+*sensor*, *network*
 
 
 
