@@ -2,7 +2,7 @@
 	<img width="100" height="100" src="icon.png" alt="logo">
 </p>
 
-#Academic Resarch
+# Academic Resarch
 ## Homepage
 - Yuan He, Tsinghua, http://www.greenorbs.org/people/heyuan/index.html 
 
