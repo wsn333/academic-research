@@ -2,9 +2,9 @@
 
 # Homepage
 
-- Yuan He, Tsinghua, http://www.greenorbs.org/people/heyuan/index.html
-<font color=green>sensor</font>
-<font color=green>network</font>
+- Yuan He, Tsinghua, http://www.greenorbs.org/people/heyuan/index.html  
+
+<font color=green>sensor</font>, <font color=green>network</font>
 
 
 
