@@ -120,6 +120,15 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 
+
+
+## Tips
+- How to read a paper, https://www.zhihu.com/question/304334959/answer/553782865?utm_source=wechat_session&utm_medium=social&utm_oi=1002998754877722624
+
+
+
+
+
 ## Contributors
 ![1](https://img.shields.io/badge/MQQM-tianhao.hdu@gmail.com-orange.svg)
 ![2](https://img.shields.io/badge/ztygalaxy-zhangty1996@163.com-orange.svg)
