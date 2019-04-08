@@ -124,7 +124,7 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 ## Tips
 - How to read a paper, https://www.zhihu.com/question/304334959/answer/553782865?utm_source=wechat_session&utm_medium=social&utm_oi=1002998754877722624
-
+- Convert equation screenshot to LaTeX code, https://zhuanlan.zhihu.com/p/61485193?utm_source=wechat_session&utm_medium=social&utm_oi=1002998754877722624
 
 
 
