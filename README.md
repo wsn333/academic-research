@@ -108,6 +108,10 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 - Free Online YouTube Downloader, https://en.savefrom.net/
 
+- IEEE Xplore Digital Library, https://ieeexplore.ieee.org/Xplore/home.jsp
+
+- ACM Digital Library, https://dl.acm.org/
+
 - SCI-Hub, http://tool.yovisun.com/scihub/
 
 - LabXing, https://www.labxing.com/paper
