@@ -93,6 +93,11 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 
+- Abdallah Khreishah, https://web.njit.edu/~abdallah/index.html   
+->*Visible light*; *Network*; *Security* 
+
+
+
 - Lin Yang, HKUST, https://yanglin-jason.github.io/about/
 
 
