@@ -141,6 +141,11 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 
+## Tutorials
+- Digital photograph tutorial, https://www.cambridgeincolour.com/tutorials.htm
+- Basic working principle of LCD panel, http://qxwujoey.tripod.com/lcd.htm
+
+
 
 ## Contributors
 ![1](https://img.shields.io/badge/MQQM-tianhao.hdu@gmail.com-orange.svg)
