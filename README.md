@@ -106,6 +106,10 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 
+- Xinyu Zhang, UCSD, http://xyzhang.ucsd.edu/   
+->*Millimeter-wave*, *Distributed MIMO*, *Visible Light*
+
+
 
 
 ## Download
