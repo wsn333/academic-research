@@ -109,6 +109,9 @@ Academic research is an important lesson for postgraduates, including me. In add
 - Xinyu Zhang, UCSD, http://xyzhang.ucsd.edu/   
 ->*Millimeter Wave*, *Distributed MIMO*, *Visible Light*
 
+- Chi Zhang, UCSD, http://dword1511.info/me/   
+->*Visible Light*, *IoT*, *Low-power System*, *Mobile Sensing*
+
 
 
 
