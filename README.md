@@ -119,9 +119,12 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 
+- Tommaso Melodia, NEU, http://www.ece.neu.edu/wineslab/tmelodia.php  
+-> *Wireless Network*, *Ultrasonic Intra-body Networks*, *Underwater Networks*
 
-Nan Cen, NEU, http://www.ece.neu.edu/wineslab/Nan_Cen.php  
+- Nan Cen, NEU, http://www.ece.neu.edu/wineslab/Nan_Cen.php  
 -> *Visible Light*, *IoT*, *WSN*
+
 
 
 
