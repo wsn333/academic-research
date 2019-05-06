@@ -126,6 +126,9 @@ Academic research is an important lesson for postgraduates, including me. In add
 -> *Visible Light*, *IoT*, *WSN*
 
 
+- Zhice Yang, ShanghaiTech, https://www.yangzhice.com/  
+-> *Mobile Security*, *Wireless Network*, *Ubiquitous Computing* 
+
 
 
 
