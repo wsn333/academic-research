@@ -8,7 +8,7 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 ## Homepage 
-- Yunhao Liu, Tsinghua, http://www.cse.ust.hk/~liu/, https://www.egr.msu.edu/news/2018/08/15/yunhao-liu  
+- Yunhao Liu, Tsinghua, http://www.cse.ust.hk/~liu/, https://www.egr.msu.edu/news/2018/08/15/yunhao-liu,  http://www.tsinghua.edu.cn/publish/soft/3641/2011/20110608151912005129309/20110608151912005129309_.html      
 -> *Network*; *RFID*; *Localization*; *Distributed Systems*
 
 - Yuan He, Tsinghua, http://www.greenorbs.org/people/heyuan/index.html  
