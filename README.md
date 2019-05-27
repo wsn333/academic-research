@@ -106,6 +106,10 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 
+- Mohammad Alizadeh, MIT, http://people.csail.mit.edu/alizadeh/index.html   
+
+- Dinesh Bharadia, UCSD, http://web.eng.ucsd.edu/~dineshb/   
+
 - Xinyu Zhang, UCSD, http://xyzhang.ucsd.edu/   
 ->*Millimeter Wave*, *Distributed MIMO*, *Visible Light*
 
