@@ -25,6 +25,9 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 
+- Mo Li, NTU, https://www.ntu.edu.sg/home/limo/   
+-> *Networked and Distributed Sensing*, *IoT*, *Urban Computing*   
+
 - Jun Luo, NTU, http://www.ntu.edu.sg/home/junluo/index.htm  
 ->*Visible Light*; *Crowdsourcing*; *Network*
 
