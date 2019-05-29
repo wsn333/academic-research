@@ -8,7 +8,7 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 ## Homepage 
-- Yunhao Liu, Tsinghua, http://www.cse.ust.hk/~liu/, https://www.egr.msu.edu/news/2018/08/15/yunhao-liu  
+- Yunhao Liu, Tsinghua, http://www.cse.ust.hk/~liu/, https://www.egr.msu.edu/news/2018/08/15/yunhao-liu,  http://www.tsinghua.edu.cn/publish/soft/3641/2011/20110608151912005129309/20110608151912005129309_.html      
 -> *Network*; *RFID*; *Localization*; *Distributed Systems*
 
 - Yuan He, Tsinghua, http://www.greenorbs.org/people/heyuan/index.html  
@@ -24,6 +24,9 @@ Academic research is an important lesson for postgraduates, including me. In add
 ->*Sensing*; *Tracking*; *WiFi*
 
 
+
+- Mo Li, NTU, https://www.ntu.edu.sg/home/limo/   
+-> *Networked and Distributed Sensing*, *IoT*, *Urban Computing*   
 
 - Jun Luo, NTU, http://www.ntu.edu.sg/home/junluo/index.htm  
 ->*Visible Light*; *Crowdsourcing*; *Network*
@@ -93,6 +96,11 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 
+- Abdallah Khreishah, https://web.njit.edu/~abdallah/index.html   
+->*Visible light*; *Network*; *Security* 
+
+
+
 - Lin Yang, HKUST, https://yanglin-jason.github.io/about/
 
 
@@ -103,6 +111,37 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 - Xiangyang Li, USTC, http://staff.ustc.edu.cn/~xiangyangli/  
 ->*Wireless Networking/Mobile Computing/RFID*; *Privacy and Security*; *Cyber-Physical Systems and IoT*; *Social Computing*; *Interdisciplinary Research*
+
+- Mohammad Alizadeh, MIT, http://people.csail.mit.edu/alizadeh/index.html   
+
+- Dinesh Bharadia, UCSD, http://web.eng.ucsd.edu/~dineshb/   
+
+- Xinyu Zhang, UCSD, http://xyzhang.ucsd.edu/   
+->*Millimeter Wave*, *Distributed MIMO*, *Visible Light*
+
+- Chi Zhang, UCSD, http://dword1511.info/me/   
+->*Visible Light*, *IoT*, *Low-power System*, *Mobile Sensing*
+
+
+
+- Zhangyu Guan, Buffalo, http://www.acsu.buffalo.edu/~guan/   
+-> *Wireless Network*
+
+
+
+- Tommaso Melodia, NEU, http://www.ece.neu.edu/wineslab/tmelodia.php  
+-> *Wireless Network*, *Ultrasonic Intra-body Networks*, *Underwater Networks*
+
+- Nan Cen, NEU, http://www.ece.neu.edu/wineslab/Nan_Cen.php  
+-> *Visible Light*, *IoT*, *WSN*
+
+
+- Zhice Yang, ShanghaiTech, https://www.yangzhice.com/  
+-> *Mobile Security*, *Wireless Network*, *Ubiquitous Computing* 
+
+
+
+
 
 ## Download
 - Video Grabber, https://www.videograbber.net/
@@ -131,9 +170,19 @@ Academic research is an important lesson for postgraduates, including me. In add
 - How to read a paper, https://www.zhihu.com/question/304334959/answer/553782865?utm_source=wechat_session&utm_medium=social&utm_oi=1002998754877722624
 - How to develop a good research topic, https://www.zhihu.com/question/23647187/answer/581714116?utm_source=wechat_session&utm_medium=social&utm_oi=1002998754877722624
 - Convert equation screenshot to LaTeX code, https://zhuanlan.zhihu.com/p/61485193?utm_source=wechat_session&utm_medium=social&utm_oi=1002998754877722624
+- Convert image of equations into text, https://zhuanlan.zhihu.com/p/48077774?utm_source=wechat_session&utm_medium=social&utm_oi=1002998754877722624 
 - How to implement an algorithm from a scientific paper, http://codecapsule.com/2012/01/18/how-to-implement-a-paper/
+- How to do the research with nobody's taught, https://www.zhihu.com/question/318640569/answer/647983796?utm_source=wechat_session&utm_medium=social&utm_oi=1002998754877722624
+
+
+
+## Tutorials
+- Digital photograph tutorial, https://www.cambridgeincolour.com/tutorials.htm
+- Basic working principle of LCD panel, http://qxwujoey.tripod.com/lcd.htm
+
 
 
 ## Contributors
 ![1](https://img.shields.io/badge/MQQM-tianhao.hdu@gmail.com-orange.svg)
 ![2](https://img.shields.io/badge/ztygalaxy-zhangty1996@163.com-orange.svg)
+![3](https://img.shields.io/badge/claudiania-guansiqi_zyj@163.com-orange.svg)
