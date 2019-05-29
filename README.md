@@ -101,7 +101,13 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 
+- Xiangyang Li, USTC, http://staff.ustc.edu.cn/~xiangyangli/ 
+->Wireless Networking/Mobile Computing/RFID, Privacy and Security, Cyber-Physical Systems and IoT, Social Computing, and interdisciplinary Research.
 
+
+
+- Yunhao Liu,  http://www.cse.ust.hk/~liu/ 
+->Distributed Systems and Wireless Sensor Networks/RFID, Cyber Physical Systems and IoT,  Privacy and Security, Network Management and Diagnosis, Localization
 
 ## Download
 - Video Grabber, https://www.videograbber.net/
