@@ -110,7 +110,10 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 - Xiangyang Li, USTC, http://staff.ustc.edu.cn/~xiangyangli/  
-->*Wireless Networking/Mobile Computing/RFID*; *Privacy and Security*; *Cyber-Physical Systems and IoT*; *Social Computing*; *Interdisciplinary Research*
+->*Wireless Networking/Mobile Computing/RFID*, *Privacy and Security*, *Cyber-Physical Systems and IoT*, *Social Computing*, *Interdisciplinary Research*
+
+
+
 
 - Mohammad Alizadeh, MIT, http://people.csail.mit.edu/alizadeh/index.html   
 
