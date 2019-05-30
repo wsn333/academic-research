@@ -110,7 +110,7 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 - Xiangyang Li, USTC, http://staff.ustc.edu.cn/~xiangyangli/  
-->*Wireless Networking/Mobile Computing/RFID*, *Privacy and Security*, *Cyber-Physical Systems and IoT*, *Social Computing*, *Interdisciplinary Research*
+->*Wireless Networking/Mobile Computing/RFID*; *Privacy and Security*; *Cyber-Physical Systems and IoT*; *Social Computing*; *Interdisciplinary Research*
 
 
 
@@ -128,19 +128,37 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 - Zhangyu Guan, Buffalo, http://www.acsu.buffalo.edu/~guan/   
--> *Wireless Network*
+->*Wireless Network*
 
 
 
 - Tommaso Melodia, NEU, http://www.ece.neu.edu/wineslab/tmelodia.php  
--> *Wireless Network*, *Ultrasonic Intra-body Networks*, *Underwater Networks*
+->*Wireless Network*, *Ultrasonic Intra-body Networks*, *Underwater Networks*
 
 - Nan Cen, NEU, http://www.ece.neu.edu/wineslab/Nan_Cen.php  
--> *Visible Light*, *IoT*, *WSN*
+->*Visible Light*, *IoT*, *WSN*
 
 
 - Zhice Yang, ShanghaiTech, https://www.yangzhice.com/  
--> *Mobile Security*, *Wireless Network*, *Ubiquitous Computing* 
+->*Mobile Security*, *Wireless Network*, *Ubiquitous Computing* 
+
+
+
+
+
+- Shiwen Mao, AUBURN, http://www.eng.auburn.edu/~szm0001/   
+->*Wireless Networks and Multimedia Communications*; *5G*; *Indoor Localization and RF Sensing*; *Smart Grid*
+
+- Bernhard Rinner, http://www.bernhardrinner.com/  
+
+- Gerhard Petrus HANCKE, CityU, https://scholars.cityu.edu.hk/en/persons/gerhard-petrus-hancke(9e59c8eb-ba32-4075-97f7-e44e82367742).html   
+->*Information and System Security*; *RFID, Smart Cards and IoT*; *Sensing and Control Systems*; *Embedded and Mobile Platforms* 
+
+- Anna Maria Vegni, https://scholar.google.com/citations?user=VwczFYsAAAAJ&hl=zh-CN    
+->*Visible Light*; *IoT*; *Network Protocol*
+
+- Nathalie Mitton, http://researchers.lille.inria.fr/~mitton/home.html, https://scholar.google.fr/citations?user=3U2F9TsAAAAJ&hl=fr     
+->*IoT*; *WSN, RFID*; *Communication*; *RFID Middleware*
 
 
 
