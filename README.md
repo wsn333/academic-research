@@ -154,7 +154,7 @@ Academic research is an important lesson for postgraduates, including me. In add
 - Gerhard Petrus HANCKE, CityU, https://scholars.cityu.edu.hk/en/persons/gerhard-petrus-hancke(9e59c8eb-ba32-4075-97f7-e44e82367742).html   
 ->*Information and System Security*; *RFID, Smart Cards and IoT*; *Sensing and Control Systems*; *Embedded and Mobile Platforms* 
 
-- Anna Maria Vegni, http://www.comlab.uniroma3.it/vegni_publications.htm, https://scholar.google.com/citations?user=VwczFYsAAAAJ&hl=zh-CN    
+- Anna Maria Vegni, http://www.comlab.uniroma3.it/vegni.htm, https://scholar.google.com/citations?user=VwczFYsAAAAJ&hl=zh-CN    
 ->*Visible Light*; *IoT*; *Network Protocol*
 
 - Nathalie Mitton, http://researchers.lille.inria.fr/~mitton/home.html, https://scholar.google.fr/citations?user=3U2F9TsAAAAJ&hl=fr     
