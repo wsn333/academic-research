@@ -82,7 +82,8 @@ Academic research is an important lesson for postgraduates, including me. In add
 - Xinbing Wang, SJTU, http://www.cs.sjtu.edu.cn/~wang-xb/index.html  
 ->*Sensor Network*; *Crowdsensing*; *Cognitive Radio Networks*
 
-
+- Fan Wu, SJTU, http://www.cs.sjtu.edu.cn/~fwu/    
+->*Wireless Networking*, *Economic Incentives for Cooperation*; *Peer-to-Peer Computing*
 
 
 
