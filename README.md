@@ -90,6 +90,9 @@ Academic research is an important lesson for postgraduates, including me. In add
 - Wei Wang, HUST, http://ei.hust.edu.cn/professor/wangwei/  
 ->*Wireless Network*; *Mobile Computing*; *IoT*; *UAV*
 
+- Xiaoqiang Ma, HUST, http://ei.hust.edu.cn/teacher/xqma/     
+->*Wireless Networks*; *Mobile Computing*; *Edge Computing*  
+
 
 
 - Cong Liu, UTDALLAS, http://www.utdallas.edu/~cong/
