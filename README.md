@@ -145,24 +145,16 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 ## Download
 - Video Grabber, https://www.videograbber.net/
-
 - Free Online YouTube Downloader, https://en.savefrom.net/
-
 - IEEE Xplore Digital Library, https://ieeexplore.ieee.org/Xplore/home.jsp
-
 - ACM Digital Library, https://dl.acm.org/
-
 - SCI-Hub, http://tool.yovisun.com/scihub/
-
 - LabXing, https://www.labxing.com/paper
-
 - Jiumo Search, https://www.jiumodiary.com/
-
 - 猫咪论文, https://lunwen.im/
-
 - Iconfont-阿里巴巴矢量图标库, https://www.iconfont.cn/
-
-
+- 大木虫学术导航-谷歌学术、SCI-HUB镜像, http://www.4243.net/
+- 龙猫学术, http://www.6453.net/
 
 
 
@@ -186,3 +178,4 @@ Academic research is an important lesson for postgraduates, including me. In add
 ![1](https://img.shields.io/badge/MQQM-tianhao.hdu@gmail.com-orange.svg)
 ![2](https://img.shields.io/badge/ztygalaxy-zhangty1996@163.com-orange.svg)
 ![3](https://img.shields.io/badge/claudiania-guansiqi_zyj@163.com-orange.svg)
+
