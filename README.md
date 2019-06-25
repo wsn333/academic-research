@@ -166,6 +166,10 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 
+- Qian Wang, WHU, http://nisplab.whu.edu.cn/people.html   
+->*AI Security*; *Data Storage*; *Search and Computation Outsourcing Security and Privacy*; *Wireless Systems Security*; *Big Data Security and Privacy*; *Applied Cryptography*
+
+
 
 
 ## Download
