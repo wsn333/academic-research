@@ -137,9 +137,9 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 - Zhice Yang, ShanghaiTech, https://www.yangzhice.com/  
--> *Mobile Security*, *Wireless Network*, *Ubiquitous Computing* 
-
-
+  -> *Mobile Security*, *Wireless Network*, *Ubiquitous Computing* 
+- Ness B. Shroff, http://newslab.ece.ohio-state.edu/home/index.html  
+-> *Span Communication (both wireless and wireline) Network*, *Social Network*, *Cyberphysical Networks*
 
 
 
