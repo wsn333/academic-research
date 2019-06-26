@@ -172,6 +172,9 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 - MIT Computer Science & Artificial Intelligence Lab, https://www.csail.mit.edu  
 
+- Ness B. Shroff, http://newslab.ece.ohio-state.edu/home/index.html  
+-> *Span Communication (both wireless and wireline) Network*, *Social Network*, *Cyberphysical Networks*
+
 
 
 ## Download
