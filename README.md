@@ -116,6 +116,8 @@ Academic research is an important lesson for postgraduates, including me. In add
 - Xiangyang Li, USTC, http://staff.ustc.edu.cn/~xiangyangli/  
 ->*Wireless Networking/Mobile Computing/RFID*; *Privacy and Security*; *Cyber-Physical Systems and IoT*; *Social Computing*; *Interdisciplinary Research*
 
+- Weiming Zhang, USTC, http://staff.ustc.edu.cn/~zhangwm/index.html    
+->*Information Hiding*; *Multimedia Security*; *Privacy-preserving Data Searching and Analysis* 
 
 
 
