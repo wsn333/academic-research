@@ -178,6 +178,13 @@ Academic research is an important lesson for postgraduates, including me. In add
 -> *Span Communication (both wireless and wireline) Network*, *Social Network*, *Cyberphysical Networks*
 
 
+- Yu Wang, UNC Charlotte, https://sites.google.com/view/wang-yu/home    
+->*Wireless Networking*; *Smart Sensing*; *Mobile Computing*
+
+
+
+
+
 
 ## Download
 - Video Grabber, https://www.videograbber.net/
