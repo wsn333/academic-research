@@ -116,6 +116,8 @@ Academic research is an important lesson for postgraduates, including me. In add
 - Xiangyang Li, USTC, http://staff.ustc.edu.cn/~xiangyangli/  
 ->*Wireless Networking/Mobile Computing/RFID*; *Privacy and Security*; *Cyber-Physical Systems and IoT*; *Social Computing*; *Interdisciplinary Research*
 
+- Weiming Zhang, USTC, http://staff.ustc.edu.cn/~zhangwm/index.html    
+->*Information Hiding*; *Multimedia Security*; *Privacy-preserving Data Searching and Analysis* 
 
 
 
@@ -169,7 +171,18 @@ Academic research is an important lesson for postgraduates, including me. In add
 - Qian Wang, WHU, http://nisplab.whu.edu.cn/people.html   
 ->*AI Security*; *Data Storage*; *Search and Computation Outsourcing Security and Privacy*; *Wireless Systems Security*; *Big Data Security and Privacy*; *Applied Cryptography*
 
+
 - MIT Computer Science & Artificial Intelligence Lab, https://www.csail.mit.edu  
+
+- Ness B. Shroff, http://newslab.ece.ohio-state.edu/home/index.html  
+-> *Span Communication (both wireless and wireline) Network*, *Social Network*, *Cyberphysical Networks*
+
+
+- Yu Wang, UNC Charlotte, https://sites.google.com/view/wang-yu/home    
+->*Wireless Networking*; *Smart Sensing*; *Mobile Computing*
+
+
+
 
 
 
@@ -208,4 +221,7 @@ Academic research is an important lesson for postgraduates, including me. In add
 [![1](https://img.shields.io/badge/MQQM-tianhao.hdu@gmail.com-orange.svg)](https://github.com/MQQM)
 [![2](https://img.shields.io/badge/ztygalaxy-zhangty1996@163.com-orange.svg)](https://github.com/ztygalaxy)
 [![3](https://img.shields.io/badge/claudiania-guansiqi_zyj@163.com-orange.svg)](https://github.com/claudiania)
+[![4](https://img.shields.io/badge/songzblink-songzblink@163.com-orange.svg)](https://github.com/songzblink)
+
+
 
