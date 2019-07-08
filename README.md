@@ -175,7 +175,5 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 ## Contributors
-[![1](https://img.shields.io/badge/MQQM-tianhao.hdu@gmail.com-orange.svg)](https://github.com/MQQM)
-[![2](https://img.shields.io/badge/ztygalaxy-zhangty1996@163.com-orange.svg)](https://github.com/ztygalaxy)
-[![3](https://img.shields.io/badge/claudiania-guansiqi_zyj@163.com-orange.svg)](https://github.com/claudiania)
+[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/images/0)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/links/0)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/images/1)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/links/1)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/images/2)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/links/2)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/images/3)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/links/3)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/images/4)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/links/4)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/images/5)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/links/5)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/images/6)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/links/6)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/images/7)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/links/7)
 
