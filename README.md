@@ -201,6 +201,7 @@ Academic research is an important lesson for postgraduates, including me. In add
 - Iconfont-阿里巴巴矢量图标库, https://www.iconfont.cn/
 - 大木虫学术导航-谷歌学术、SCI-HUB镜像, http://www.4243.net/
 - 龙猫学术, http://www.6453.net/
+- Mockaroo-数据集生成, https://mockaroo.com/
 
 
 
