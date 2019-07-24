@@ -182,8 +182,14 @@ Academic research is an important lesson for postgraduates, including me. In add
 ->*Wireless Networking*; *Smart Sensing*; *Mobile Computing*
 
 
-- Yongxin Tong, http://sites.nlsde.buaa.edu.cn/~yxtong/    
-  ->*Crowdsourcing*; *Spatio-temporal Data Processing and Analysis*; *Uncertain Data Mining and Management* 
+- Yongxin Tong, http://sites.nlsde.buaa.edu.cn/~yxtong/      
+->*Crowdsourcing*; *Spatio-temporal Data Processing and Analysis*; *Uncertain Data Mining and Management* 
+
+
+- Disney Research, https://la.disneyresearch.com/  
+
+- Stefan Schmid, Disney Research, https://la.disneyresearch.com/people/stefan-schmid/    
+->*Visible Light*; *Human Computer Interaction*
 
 
 
