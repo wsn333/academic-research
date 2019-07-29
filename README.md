@@ -181,7 +181,8 @@ Academic research is an important lesson for postgraduates, including me. In add
 - Yu Wang, UNC Charlotte, https://sites.google.com/view/wang-yu/home    
 ->*Wireless Networking*; *Smart Sensing*; *Mobile Computing*
 
-
+- Stanford HAI, 以人为本实验室, https://hai.stanford.edu/
+-> *AI*, *Medicine*, *Education*, *Human Impact*
 
 
 
