@@ -182,8 +182,21 @@ Academic research is an important lesson for postgraduates, including me. In add
 ->*Wireless Networking*; *Smart Sensing*; *Mobile Computing*
 
 
-- Yongxin Tong, http://sites.nlsde.buaa.edu.cn/~yxtong/    
-  ->*Crowdsourcing*; *Spatio-temporal Data Processing and Analysis*; *Uncertain Data Mining and Management* 
+
+- Stanford HAI, 以人为本实验室, https://hai.stanford.edu/    
+-> *AI*, *Medicine*, *Education*, *Human Impact*
+
+
+
+- Yongxin Tong, http://sites.nlsde.buaa.edu.cn/~yxtong/      
+->*Crowdsourcing*; *Spatio-temporal Data Processing and Analysis*; *Uncertain Data Mining and Management* 
+
+
+- Disney Research, https://la.disneyresearch.com/  
+
+- Stefan Schmid, Disney Research, https://la.disneyresearch.com/people/stefan-schmid/    
+->*Visible Light*; *Human Computer Interaction*
+
 
 
 
@@ -201,6 +214,8 @@ Academic research is an important lesson for postgraduates, including me. In add
 - Iconfont-阿里巴巴矢量图标库, https://www.iconfont.cn/
 - 大木虫学术导航-谷歌学术、SCI-HUB镜像, http://www.4243.net/
 - 龙猫学术, http://www.6453.net/
+- Mockaroo-数据集生成, https://mockaroo.com/
+- SemanticScholar-论文、源代码查询, https://www.semanticscholar.org/
 
 
 
