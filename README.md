@@ -181,8 +181,23 @@ Academic research is an important lesson for postgraduates, including me. In add
 - Yu Wang, UNC Charlotte, https://sites.google.com/view/wang-yu/home    
 ->*Wireless Networking*; *Smart Sensing*; *Mobile Computing*
 
-- Stanford HAI, 以人为本实验室, https://hai.stanford.edu/
+
+
+- Stanford HAI, 以人为本实验室, https://hai.stanford.edu/    
 -> *AI*, *Medicine*, *Education*, *Human Impact*
+
+
+
+- Yongxin Tong, http://sites.nlsde.buaa.edu.cn/~yxtong/      
+->*Crowdsourcing*; *Spatio-temporal Data Processing and Analysis*; *Uncertain Data Mining and Management* 
+
+
+- Disney Research, https://la.disneyresearch.com/  
+
+- Stefan Schmid, Disney Research, https://la.disneyresearch.com/people/stefan-schmid/    
+->*Visible Light*; *Human Computer Interaction*
+
+
 
 
 
@@ -199,6 +214,7 @@ Academic research is an important lesson for postgraduates, including me. In add
 - Iconfont-阿里巴巴矢量图标库, https://www.iconfont.cn/
 - 大木虫学术导航-谷歌学术、SCI-HUB镜像, http://www.4243.net/
 - 龙猫学术, http://www.6453.net/
+- Mockaroo-数据集生成, https://mockaroo.com/
 
 
 
@@ -219,10 +235,12 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 
 ## Contributors
-[![1](https://img.shields.io/badge/MQQM-tianhao.hdu@gmail.com-orange.svg)](https://github.com/MQQM)
-[![2](https://img.shields.io/badge/ztygalaxy-zhangty1996@163.com-orange.svg)](https://github.com/ztygalaxy)
-[![3](https://img.shields.io/badge/claudiania-guansiqi_zyj@163.com-orange.svg)](https://github.com/claudiania)
-[![4](https://img.shields.io/badge/songzblink-songzblink@163.com-orange.svg)](https://github.com/songzblink)
-
-
+[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/images/0)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/links/0)
+[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/images/1)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/links/1)
+[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/images/2)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/links/2)
+[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/images/3)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/links/3)
+[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/images/4)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/links/4)
+[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/images/5)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/links/5)
+[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/images/6)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/links/6)
+[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/images/7)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-research/links/7)
 
