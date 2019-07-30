@@ -182,6 +182,12 @@ Academic research is an important lesson for postgraduates, including me. In add
 ->*Wireless Networking*; *Smart Sensing*; *Mobile Computing*
 
 
+
+- Stanford HAI, 以人为本实验室, https://hai.stanford.edu/    
+-> *AI*, *Medicine*, *Education*, *Human Impact*
+
+
+
 - Yongxin Tong, http://sites.nlsde.buaa.edu.cn/~yxtong/      
 ->*Crowdsourcing*; *Spatio-temporal Data Processing and Analysis*; *Uncertain Data Mining and Management* 
 
@@ -190,6 +196,7 @@ Academic research is an important lesson for postgraduates, including me. In add
 
 - Stefan Schmid, Disney Research, https://la.disneyresearch.com/people/stefan-schmid/    
 ->*Visible Light*; *Human Computer Interaction*
+
 
 
 
