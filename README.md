@@ -215,6 +215,7 @@ Academic research is an important lesson for postgraduates, including me. In add
 - 大木虫学术导航-谷歌学术、SCI-HUB镜像, http://www.4243.net/
 - 龙猫学术, http://www.6453.net/
 - Mockaroo-数据集生成, https://mockaroo.com/
+- SemanticScholar-论文、源代码查询, https://www.semanticscholar.org/
 
 
 
