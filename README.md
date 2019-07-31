@@ -23,6 +23,9 @@ Academic research is an important lesson for postgraduates, including me. In add
 - Kun Qian, Tsinghua, http://www.kunqian.info/  
 ->*Sensing*; *Tracking*; *WiFi*
 
+- Xufei Mao, Tsinghua, http://mypages.iit.edu/~xmao3/, https://www.tsinghua.edu.cn/publish/soft/3641/2014/20140115110331781785449/20140115110331781785449_.html    
+-> *Span Wireless Ad Hoc Networks*; *Wireless Sensor Networks*; *Pervasive Computing*; *Mobile Cloud Computing*; *Game Theory*; *Security*  
+
 
 
 - Mo Li, NTU, https://www.ntu.edu.sg/home/limo/   
