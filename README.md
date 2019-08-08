@@ -219,6 +219,7 @@ Academic research is an important lesson for postgraduates, including me. In add
 - 龙猫学术, http://www.6453.net/
 - Mockaroo-数据集生成, https://mockaroo.com/
 - SemanticScholar-论文、源代码查询, https://www.semanticscholar.org/
+- 论文向后查找, https://www.researchgate.net/
 
 
 
