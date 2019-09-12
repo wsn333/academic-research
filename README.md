@@ -88,6 +88,9 @@ Academic research is an important lesson for postgraduates, including me. In add
 - Fan Wu, SJTU, http://www.cs.sjtu.edu.cn/~fwu/    
 ->*Wireless Networking*, *Economic Incentives for Cooperation*; *Peer-to-Peer Computing*
 
+- Yi-Chao Chen, SJTU, http://www.cs.sjtu.edu.cn/~yichao/pmwiki/pmwiki.php?n=Main.HomePage    
+-> *Wireless Networking*, *Network Measurement and Analytics*, *Mobile Computing*
+
 
 
 - Wei Wang, HUST, http://ei.hust.edu.cn/professor/wangwei/  
