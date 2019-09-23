@@ -4,8 +4,9 @@
 
 # Academic Research
 
-Academic research is an important lesson for postgraduates, including me. In addition to the paper reading, understanding what are these productive researchers doing is a matter of great importance. To learn these academic hot spots and research trends, browsing homepages of these researchers can yet be regarded as a straightforward way. Here are some homepages that I have ever collected, mostly about "Sensor" and "Communication" since it is exactly what I'm concerning about. Surely, the fields that productive researchers are working on is much more than these two aspects. They all achieve excellent jobs and are my role models. This repository is only used for recording, collecting and sharing. If it can help you learn more academic information, I will be very gratified. One things shall be noted is that *classification is not completely appropriate, only for reference when searching*. If you accept the practical significance of this repository, I wish I could build it with you. 
+Academic research is an important lesson for postgraduates. In addition to the paper reading, understanding what are these productive researchers doing is a matter of great importance. To learn these academic hot spots and research trends, browsing homepages of these researchers can yet be regarded as a straightforward way. Here are some homepages that we have ever collected, mostly about "Sensor" and "Communication" since it is exactly what we are concerning about. Surely, the fields that productive researchers are working on is much more than these two aspects. They all achieve excellent jobs and are my role models. This repository is only used for recording, collecting and sharing. We are very gratified if it can help you learn more academic information. One things shall be noted is that *classification is not completely appropriate, only for reference when searching*. If you accept the practical significance of this repository, we hope to build it with you. 
 
+By the way, a suitable format is required when you push a PR.
 
 ## Homepage 
 - Yunhao Liu, Tsinghua, http://www.cse.ust.hk/~liu/, https://www.egr.msu.edu/news/2018/08/15/yunhao-liu,  http://www.tsinghua.edu.cn/publish/soft/3641/2011/20110608151912005129309/20110608151912005129309_.html      
@@ -220,6 +221,7 @@ Academic research is an important lesson for postgraduates, including me. In add
 - Mockaroo-数据集生成, https://mockaroo.com/
 - SemanticScholar-论文、源代码查询, https://www.semanticscholar.org/
 - 论文向后查找, https://www.researchgate.net/
+- 论文PPT下载, [https://slideplayer.com](https://slideplayer.com/)
 
 
 
