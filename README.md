@@ -205,6 +205,8 @@ By the way, a suitable format is required when you push a PR.
 ->*Visible Light*; *Human Computer Interaction*
 
 
+- Falko Dressler, Paderborn University, https://www.ccs-labs.org/~dressler/    
+
 
 
 
