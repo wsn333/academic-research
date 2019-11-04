@@ -205,6 +205,9 @@ By the way, a suitable format is required when you push a PR.
 ->*Visible Light*; *Human Computer Interaction*
 
 
+Carla-Fabiana Chiasserini, Polytechnic of Turin Department of Electronics and Telecommunications, https://www.telematica.polito.it/member/carla-fabiana-chiasserini/     
+
+
 - Falko Dressler, Paderborn University, https://www.ccs-labs.org/~dressler/    
 
 
