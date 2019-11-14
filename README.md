@@ -233,13 +233,19 @@ By the way, a suitable format is required when you push a PR.
 
 
 
+
 ## Tips
 - How to read a paper, https://www.zhihu.com/question/304334959/answer/553782865?utm_source=wechat_session&utm_medium=social&utm_oi=1002998754877722624
 - How to develop a good research topic, https://www.zhihu.com/question/23647187/answer/581714116?utm_source=wechat_session&utm_medium=social&utm_oi=1002998754877722624
-- Convert equation screenshot to LaTeX code, https://zhuanlan.zhihu.com/p/61485193?utm_source=wechat_session&utm_medium=social&utm_oi=1002998754877722624
-- Convert image of equations into text, https://zhuanlan.zhihu.com/p/48077774?utm_source=wechat_session&utm_medium=social&utm_oi=1002998754877722624 
 - How to implement an algorithm from a scientific paper, http://codecapsule.com/2012/01/18/how-to-implement-a-paper/
 - How to do the research with nobody's taught, https://www.zhihu.com/question/318640569/answer/647983796?utm_source=wechat_session&utm_medium=social&utm_oi=1002998754877722624
+
+
+
+## Tools
+- Convert table in Excel to LaTeX code, https://ctan.org/pkg/excel2latex, https://blog.csdn.net/piaopiaopiaopiaopiao/article/details/17427199  
+- Convert equation screenshot to LaTeX code, https://zhuanlan.zhihu.com/p/61485193?utm_source=wechat_session&utm_medium=social&utm_oi=1002998754877722624 
+- Convert image of equations into text, https://zhuanlan.zhihu.com/p/48077774?utm_source=wechat_session&utm_medium=social&utm_oi=1002998754877722624 
 
 
 
