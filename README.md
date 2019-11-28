@@ -27,6 +27,11 @@ By the way, a suitable format is required when you push a PR.
 - Xufei Mao, Tsinghua, http://mypages.iit.edu/~xmao3/, https://www.tsinghua.edu.cn/publish/soft/3641/2014/20140115110331781785449/20140115110331781785449_.html    
 -> *Span Wireless Ad Hoc Networks*; *Wireless Sensor Networks*; *Pervasive Computing*; *Mobile Cloud Computing*; *Game Theory*; *Security*  
 
+Lingkun Li, MSU, http://www.cse.msu.edu/~lilingk1/      
+->*Internet of Things (IoTs)*； *Mobile Computing*; *Network Systems* 
+
+
+
 
 
 - Mo Li, NTU, https://www.ntu.edu.sg/home/limo/   
