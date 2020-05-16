@@ -216,6 +216,13 @@ By the way, a suitable format is required when you push a PR.
 - Falko Dressler, Paderborn University, https://www.ccs-labs.org/~dressler/    
 
 
+- Xiaofeng Gao, Shanghai JiaoTong University, http://www.cs.sjtu.edu.cn/~gao-xf/    
+-> *Data Engineering*; *Database Management*; *Wireless Network*; *Optimization Algorithms* 
+
+
+
+
+
 
 
 
